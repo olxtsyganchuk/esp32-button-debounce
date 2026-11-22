@@ -1,0 +1,21 @@
+Task 2: Time-based debounce (50 ms outside ISR) started...
+Valid press: 1 | Raw interrupts: 1
+Valid press: 2 | Raw interrupts: 2
+Valid press: 3 | Raw interrupts: 8
+Valid press: 4 | Raw interrupts: 14
+Valid press: 5 | Raw interrupts: 16
+Valid press: 6 | Raw interrupts: 20
+Valid press: 7 | Raw interrupts: 22
+Valid press: 8 | Raw interrupts: 23
+Valid press: 9 | Raw interrupts: 28
+Valid press: 10 | Raw interrupts: 29
+Valid press: 11 | Raw interrupts: 34
+Valid press: 12 | Raw interrupts: 35
+Valid press: 13 | Raw interrupts: 45
+Valid press: 14 | Raw interrupts: 46
+Valid press: 15 | Raw interrupts: 52
+Valid press: 16 | Raw interrupts: 53
+Valid press: 17 | Raw interrupts: 61
+Valid press: 18 | Raw interrupts: 67
+Valid press: 19 | Raw interrupts: 71
+Valid press: 20 | Raw interrupts: 72
